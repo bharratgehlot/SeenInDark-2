@@ -1,0 +1,12 @@
+Activate venv - venv\Scripts\activate
+Deactivate venv -  Deactivate
+
+Python Intrepator = Python 3.11.5 venvv/
+
+Use Prt 8000 for prodcution
+
+gitignore
+
+venv/
+__pycache__/
+*.pyc
